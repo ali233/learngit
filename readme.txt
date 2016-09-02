@@ -1,4 +1,2 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes.
+这里有两个小例子，其中full_width_1是一个商城首页自适应宽度滑动图，主要使用html+css+js实现的，
+little-football这个例子是针对移动端视口实现的，主要做的事情是实现页面的布局。
